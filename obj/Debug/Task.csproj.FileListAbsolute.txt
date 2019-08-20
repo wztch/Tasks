@@ -1,7 +1,0 @@
-C:\Users\Yura\source\repos\Task\bin\Debug\Task.exe.config
-C:\Users\Yura\source\repos\Task\bin\Debug\Task.exe
-C:\Users\Yura\source\repos\Task\bin\Debug\Task.pdb
-C:\Users\Yura\source\repos\Task\obj\Debug\Task.csprojAssemblyReference.cache
-C:\Users\Yura\source\repos\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
-C:\Users\Yura\source\repos\Task\obj\Debug\Task.exe
-C:\Users\Yura\source\repos\Task\obj\Debug\Task.pdb

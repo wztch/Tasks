@@ -21,10 +21,10 @@ namespace Task
             {
                 Console.WriteLine("Enter {0} complex number:", i);
                 input1 = Console.ReadLine();
-                Console.SetCursorPosition(input1.Length + 1, 1 + n);
+                Console.SetCursorPosition(input1.Length + 1, 2 + n);
                 Console.Write("+ ");
                 input2 = Console.ReadLine();
-                Console.SetCursorPosition(input1.Length + 3 + input2.Length, 1 + n);
+                Console.SetCursorPosition(input1.Length + 3 + input2.Length, 2 + n);
                 Console.WriteLine("i");
 
                 if (n == 0)
